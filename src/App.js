@@ -1,5 +1,5 @@
 function App() {
-  return <div className="bg-red-3000">naveed</div>;
+  return <div className="bg-red-3000">naveed warraich</div>;
 }
 
 export default App;
